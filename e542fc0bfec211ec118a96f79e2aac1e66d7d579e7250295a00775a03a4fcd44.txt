@@ -1,0 +1,4 @@
+Manual gov publication candidate for end-to-end test.
+Title: Fuel law
+Source page: https://www.gov.il/he/pages/fuel_law
+Ministry: משרד האנרגיה
